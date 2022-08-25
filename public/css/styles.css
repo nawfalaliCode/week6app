@@ -1,0 +1,10 @@
+body {
+  background-image: url('background.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+a {
+  margin-right: 1cm;
+}
